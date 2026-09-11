@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KAUSHVANI</string>
+    <string name="offline_sync_status_title">Offline Sync Status</string>
+    <string name="retry_sync_button">Retry Sync</string>
+    <string name="pending_drafts_label">%1$d Drafts Pending Sync</string>
+    <string name="all_synced_label">All Drafts Synced</string>
+    <string name="syncing_in_progress">Syncing drafts with cloud…</string>
+    <string name="sync_failed_label">Sync incomplete • Tap to retry</string>
+</resources>
